@@ -1,2 +1,0 @@
-# sdl
-THE QUICK PINK FOX: SDL Game
